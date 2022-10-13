@@ -2312,6 +2312,9 @@
                 },
                 {
                   "key": "onSubmit"
+                },
+                {
+                  "key": "schema.__root_schema__.children.created_date.defaultValue"
                 }
               ],
               "displayName": "JSON Form",
